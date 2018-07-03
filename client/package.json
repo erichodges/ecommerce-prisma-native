@@ -13,7 +13,9 @@
     "eject": "react-native-scripts eject",
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
-    "test": "node node_modules/jest/bin/jest.js"
+    "test": "node node_modules/jest/bin/jest.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "jest": {
     "preset": "jest-expo"
@@ -26,6 +28,8 @@
     "react": "16.2.0",
     "react-apollo": "^2.0.4",
     "react-native": "0.52.0",
-    "react-router-native": "^4.2.0"
-  }
+    "react-router-native": "^4.2.0",
+    "snyk": "^1.88.0"
+  },
+  "snyk": true
 }
