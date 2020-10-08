@@ -22,10 +22,10 @@
   },
   "dependencies": {
     "apollo-client-preset": "^1.0.8",
-    "expo": "^25.0.0",
+    "expo": "^28.0.0",
     "graphql": "^0.12.3",
     "graphql-tag": "^2.6.1",
-    "react": "16.2.0",
+    "react": "16.5.0",
     "react-apollo": "^2.0.4",
     "react-native": "0.62.0",
     "react-router-native": "^4.2.0",
