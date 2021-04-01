@@ -29,7 +29,7 @@
     "react-apollo": "^2.0.4",
     "react-native": "0.62.0",
     "react-router-native": "^4.2.0",
-    "snyk": "^1.465.0"
+    "snyk": "^1.518.0"
   },
   "snyk": true
 }
