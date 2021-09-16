@@ -14,7 +14,7 @@
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
     "test": "node node_modules/jest/bin/jest.js",
-    "snyk-protect": "snyk protect",
+    "snyk-protect": "snyk-protect",
     "prepare": "yarn run snyk-protect"
   },
   "jest": {
@@ -22,14 +22,14 @@
   },
   "dependencies": {
     "apollo-client-preset": "^1.0.8",
-    "expo": "^39.0.1",
+    "expo": "^41.0.0",
     "graphql": "^0.12.3",
     "graphql-tag": "^2.6.1",
     "react": "16.5.0",
     "react-apollo": "^2.0.4",
     "react-native": "0.64.1",
     "react-router-native": "^4.2.0",
-    "snyk": "^1.621.0"
+    "@snyk/protect": "latest"
   },
   "snyk": true
 }
