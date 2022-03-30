@@ -2423,7 +2423,7 @@
   resolved "https://registry.yarnpkg.com/@sideway/pinpoint/-/pinpoint-2.0.0.tgz#cff8ffadc372ad29fd3f78277aeb29e632cc70df"
   integrity sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==
 
-"@snyk/protect@latest":
+"@snyk/protect@^1.890.0":
   version "1.890.0"
   resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.890.0.tgz#1979d9533edecb90b6b501cd8734685044378735"
   integrity sha512-xloJx6b1OROkP0wk+lQgc3nMNaR0QdxokqxwErIK0rBFT+FVNrXCySXOWUzr8mUHqvJBYa5/7o71h2mCAiAvCQ==
