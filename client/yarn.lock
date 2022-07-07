@@ -2423,10 +2423,10 @@
   resolved "https://registry.yarnpkg.com/@sideway/pinpoint/-/pinpoint-2.0.0.tgz#cff8ffadc372ad29fd3f78277aeb29e632cc70df"
   integrity sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==
 
-"@snyk/protect@^1.890.0":
-  version "1.890.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.890.0.tgz#1979d9533edecb90b6b501cd8734685044378735"
-  integrity sha512-xloJx6b1OROkP0wk+lQgc3nMNaR0QdxokqxwErIK0rBFT+FVNrXCySXOWUzr8mUHqvJBYa5/7o71h2mCAiAvCQ==
+"@snyk/protect@latest":
+  version "1.963.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.963.0.tgz#f683c8116af21822662f8dada52707bdc92e0551"
+  integrity sha512-LgrJQa7fmZPja8D1yxhOqhGbLsjJ1wChXB0tIiD/o42nyEUeWw45erPckfnmBmpkWoaeAE2PjrLrgz81zKlFJg==
 
 "@types/async@2.0.47":
   version "2.0.47"
@@ -7879,8 +7879,9 @@ mkpath@^0.1.0:
   integrity sha1-dVSm+Nhxg0zJe1RisSLEwSTW3pE=
 
 moment@2.x.x, moment@^2.10.6:
-  version "2.20.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.20.1.tgz#d6eb1a46cbcc14a2b2f9434112c1ff8907f313fd"
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 ms@2.0.0:
   version "2.0.0"
