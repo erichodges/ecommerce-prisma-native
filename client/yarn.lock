@@ -2423,10 +2423,10 @@
   resolved "https://registry.yarnpkg.com/@sideway/pinpoint/-/pinpoint-2.0.0.tgz#cff8ffadc372ad29fd3f78277aeb29e632cc70df"
   integrity sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==
 
-"@snyk/protect@^1.890.0":
-  version "1.890.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.890.0.tgz#1979d9533edecb90b6b501cd8734685044378735"
-  integrity sha512-xloJx6b1OROkP0wk+lQgc3nMNaR0QdxokqxwErIK0rBFT+FVNrXCySXOWUzr8mUHqvJBYa5/7o71h2mCAiAvCQ==
+"@snyk/protect@latest":
+  version "1.1069.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1069.0.tgz#8427b3f6481128a7d765ee5963cc5ca31f35a772"
+  integrity sha512-LowUeB/+tyEoCwriA/+RkZUIolZcXVVcid5mkFtTpM/lZUVmPNt7gpNHExBPc4l1gzJu21uUjBxG5mf5R+ScmQ==
 
 "@types/async@2.0.47":
   version "2.0.47"
@@ -8793,18 +8793,19 @@ qrcode-terminal@^0.11.0:
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/qrcode-terminal/-/qrcode-terminal-0.11.0.tgz#ffc6c28a2fc0bfb47052b47e23f4f446a5fbdb9e"
 
-qs@6.5.1, qs@^6.2.1, qs@^6.5.0, qs@^6.5.1, qs@~6.5.1:
+qs@6.5.1, qs@~6.5.1:
   version "6.5.1"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.1.tgz#349cdf6eef89ec45c12d7d5eb3fc0c870343a6d8"
 
-qs@^6.9.4:
+qs@^6.2.1, qs@^6.5.0, qs@^6.5.1, qs@^6.9.4:
   version "6.9.4"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.9.4.tgz#9090b290d1f91728d3c22e54843ca44aea5ab687"
   integrity sha512-A1kFqHekCTM7cz0udomYUoYNWjBebHm/5wzU/XqrBRBNWectVH0QIiN+NEcZ0Dte5hvzHwbr8+XQmguPhJ6WdQ==
 
 qs@~6.4.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.1.tgz#2bad97710a5b661c366b378b1e3a44a592ff45e6"
+  integrity sha512-LQy1Q1fcva/UsnP/6Iaa4lVeM49WiOitu2T4hZCyA/elLKu37L99qcBJk4VCCk+rdLvnMzfKyiN3SZTqdAZGSQ==
 
 querystring@0.2.0, querystring@^0.2.0:
   version "0.2.0"
